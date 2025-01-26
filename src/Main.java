@@ -7,5 +7,8 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         System.out.println("Adios!");
+        System.out.println("Ciao!");
+        System.out.println("Agur!");
+        System.out.println("Adeu!");
     }
 }
